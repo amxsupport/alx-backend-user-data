@@ -29,4 +29,28 @@ def log_in(email: str, password: str) -> str:
     return ""
 
 
+def profile_unlogged() -> None:
+    """
+    profile_unlogged.
+    """
+    assert True
+    return
+
+
+def profile_logged(session_id: str) -> None:
+    """
+    profile_logged.
+    """
+    assert True
+    return
+
+
+def log_out(session_id: str) -> None:
+    """
+    log_out.
+    """
+    assert True
+    return
+
+
 
